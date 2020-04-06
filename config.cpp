@@ -171,6 +171,7 @@ float RrConfig::ReadFloat(const char* section, const char* item, const float& de
 {
 	std::string tmp_s(section);
 	std::string tmp_i(item);
+	cout<<"hello_world\n";
 	std::map<std::string, std::string> k_v;
 	std::map<std::string, std::string>::iterator it_item;
 	std::map<std::string, std::map<std::string, std::string> >::iterator it;
