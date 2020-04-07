@@ -1,7 +1,7 @@
 #include "RrConfig.h"
 #include <fstream>
 #include <stdlib.h>
-
+//int m;
 namespace rr
 {
 
