@@ -13,6 +13,6 @@ int main()
 	std::cout << "HostName=" << HostName << std::endl;
 	std::cout << "Port=" << Port << std::endl;
 	std::cout << "UserName=" << UserName << std::endl;
-
+	std::cout << "UserName2222=" << UserName << std::endl;
 	return 0;
 }
